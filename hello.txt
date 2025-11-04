@@ -1,0 +1,16 @@
+Left rotation by k
+s="abcdef" k=2 ->"cdefab"
+s.substr(k)+s.substr(0,k)
+
+
+
+isalpha(C)
+isdigit(c)
+
+(char).tolower(a)
+(char).toupper(a)->typecast as it gives ascii value
+
+set union 
+set<int>a;
+set<int>b;
+set_union(set1,a.begin())

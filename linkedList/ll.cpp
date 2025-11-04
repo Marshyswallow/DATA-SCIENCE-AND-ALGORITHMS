@@ -11,6 +11,8 @@ public:
     }   
 };
 
+
+
 void insertAtHead(Node* &head, int data) {
     if(head == NULL) {
         Node* newNode = new Node(data);
